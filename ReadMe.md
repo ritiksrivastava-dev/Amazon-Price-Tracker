@@ -1,7 +1,5 @@
 # Amazon Price Tracker
 
-# Big Data Analytics
-
 # Functionality:
 
 The application should be able to take in the name of a product, fetch prices from different websites, and store the data in a .csv excel file.
